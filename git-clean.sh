@@ -4,7 +4,6 @@
 if [ $# -eq 0 ]
   then
     echo "No arguments supplied"
-    git clean -xfd
     git status
     exit 1
 else

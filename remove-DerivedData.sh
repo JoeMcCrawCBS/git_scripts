@@ -1,4 +1,4 @@
 #!/bin/bash
 
-rm -rf ~/Library/Developer/Xcode/DerivedData
+rm -rfv ~/Library/Developer/Xcode/DerivedData
 exit 1
